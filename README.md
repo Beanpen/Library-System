@@ -9,6 +9,6 @@ To initialize the program,
 
 3. After entering the program, the interface would suggest eleven options. In order to initialize the program, type numbers and return for selecting different options. Try the first two options before testing since they are necessary inputs for the program. Those two options would read books.txt and ratings.txt.
 
-#4. Two .txt documents are examples to test the performence of the programs. Feel free to use them. They could be replaced but the files have to be in the same format for running the program.
+#4. Two .txt documents are examples to test the performence of the program. Feel free to use them. They could be replaced but have to be in the same format for running the program.
 
 #5. Option 10 is left for everyone to make suggestions, so it is an empty option for now.
