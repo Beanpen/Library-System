@@ -1,7 +1,7 @@
 # Library-System
 This python program provides interfaces that allow users to manage books, ratings, and users in the library for a more convinient and easier library management.
 
-To initialize the program, 
+# To initialize the program, 
 
 1. Either download the Archieve.zip and uncompress, or directly download the other six files.
 
