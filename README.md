@@ -1,5 +1,5 @@
 # Library-System
-This python program provides interfaces that allow users to manage books, ratings, and users in the library for a more convinient and easier library management.
+This python program provides interfaces that allow users to manage books, ratings, and users in the library for a more convenient and easier library management.
 
 # To initialize the program, 
 
